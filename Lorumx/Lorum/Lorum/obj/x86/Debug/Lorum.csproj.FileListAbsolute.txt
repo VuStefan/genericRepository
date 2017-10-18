@@ -1,0 +1,24 @@
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\bin\Debug\Lorum.exe
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\bin\Debug\Lorum.pdb
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.TabelaRezultata.resources
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.Form1.resources
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.Properties.Resources.resources
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.Resource1.resources
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.exe
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\obj\x86\Debug\Lorum.pdb
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\bin\Debug\Lorum.exe.CodeAnalysisLog.xml
+C:\Users\samsung\Desktop\New folder (2)\Maturski Rad1\Maturski Rad\bin\Debug\Lorum.exe.lastcodeanalysissucceeded
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\bin\Debug\Lorum.exe
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\bin\Debug\Lorum.pdb
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.TabelaRezultata.resources
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.Form1.resources
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.Properties.Resources.resources
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.Resource1.resources
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.exe
+C:\Users\samsung\Desktop\New folder (2)\Lorum\Maturski Rad\obj\x86\Debug\Lorum.pdb
